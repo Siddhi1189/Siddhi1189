@@ -4,7 +4,7 @@
 
 ### Aspiring Software Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Java+%7C+DSA+%7C+Web+Development;250%2B+LeetCode+Problems+Solved;Building+Practical+Applications;Learning+and+Growing+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;Java+%7C+DSA+%7C+Web+Development;290%2B+LeetCode+Problems+Solved;Building+Practical+Applications;Learning+and+Growing+Every+Day" alt="Typing SVG" />
 
 <br>
 
@@ -32,7 +32,7 @@
 
 * 🎓 B.Tech Computer Science Engineering Student at Parul University
 * 💻 Interested in Software Development and Web Technologies
-* 🧠 Solved **250+ Data Structures & Algorithms Problems**
+* 🧠 Solved **290+ Data Structures & Algorithms Problems**
 * 🚀 Building practical applications to strengthen development skills
 * 🌱 Currently learning React and Backend Development
 
@@ -54,10 +54,12 @@
 
 ### Core Computer Science
 
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Database Management Systems
-* Operating Systems
+<p>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0F172A?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-0F172A?style=for-the-badge&logo=java&logoColor=ED8B00" />
+<img src="https://img.shields.io/badge/DBMS-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Operating%20Systems-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624" />
+</p>
 
 ### Tools
 
@@ -83,21 +85,30 @@ Highlights
 
 ---
 
+### 🔹 AlgoLens – Interactive Sorting Algorithm Visualizer
+
+Interactive web application that visualizes sorting algorithms through real-time animations to enhance algorithm understanding.
+
+**Highlights**
+
+- Built using HTML, CSS, and JavaScript
+- Implemented Bubble Sort, Selection Sort, and Insertion Sort
+- Adjustable array size and animation speed controls
+- Real-time comparison and swap counters
+- Time & Space Complexity visualization
+- Responsive developer-tool inspired interface
+
+---
+
 ### 🔹 Yucca Website Clone
 
 * Responsive recreation of a real-world website using HTML, CSS, and JavaScript.
 
 ---
 
-### 🔹 Boulevard Landing Page
-
-* Modern responsive landing page built using HTML and CSS.
-
----
-
 ## 🏆 Achievements
 
-* ✅ Solved 250+ LeetCode Problems
+* ✅ Solved 290+ LeetCode Problems
 * ✅ Earned the LeetCode 100 Days Badge
 * ✅ Participated in Guidewire DEVTrails 2026 Hackathon
 
